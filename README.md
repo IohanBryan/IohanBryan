@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 ## 🌐 Contatos
 
 <p align="left">
-  <a href="mailto:yohanbryan2000@gmail.com">
+  <a href="Email:yohanbryan2000@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Gmail"
