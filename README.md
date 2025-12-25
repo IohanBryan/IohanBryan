@@ -36,24 +36,26 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 ## 🌐 Contatos
 
 <p align="left">
-  <a href="Email:yohanbryan2000@gmail.com">
+
+  <a href="mailto:iohanbryan2000@gmail.com?subject=Contato%20via%20GitHub">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Gmail"
+      alt="Email"
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/iohan-bryan-566a6a398/">
+  <a href="https://www.linkedin.com/in/iohan-bryan-566a6a398/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://www.instagram.com/iohanbryan_2/">
+  
+  <a href="https://www.instagram.com/iohanbryan_2/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
       alt="Instagram"
     />
   </a>
 </p>
+
