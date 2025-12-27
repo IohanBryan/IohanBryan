@@ -37,14 +37,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 <p align="left">
 
-  <a href="mailto:iohanbryan2000@gmail.com?subject=Contato%20via%20GitHub">
+  <a href="mailto:yohanbryan2000@gmail.comç.com?subject=Contato%20via%20GitHub">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/iohan-bryan-566a6a398/" target="_blank">
+  <a href="https://www.linkedin.com/in/iohan-bryan/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
